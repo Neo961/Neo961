@@ -5,6 +5,6 @@
 - 📫 How to reach me you can contact me on my email ndromero@rainbowonderlust.com
 
 <!---
-Neo961/Neo961 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Neo961/Neo961 is a ✨ special ✨ repository because its `main` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
