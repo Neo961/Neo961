@@ -15,5 +15,5 @@ Neo961/Neo961 is a ✨ special ✨ repository because its `the creator, the mage
 - ♾️my energy is only mind and no one is allowed to take it.
 - 👹🤯 my power is only mine and no one has control over this only me.
 - 😎 no one is allow to see through my eyes only me.
-- 😈they see my add on {RM} as {DeusXL} and they want me, they are driving crazy to hire me, coz i want and i have that {POWER}
+- 😈they see and they want me, they are driving crazy to hire me, coz i want and i have that {POWER}
 
