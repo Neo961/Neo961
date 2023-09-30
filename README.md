@@ -15,5 +15,9 @@ Neo961/Neo961 is a ✨ special ✨ repository because its `the creator, the mage
 - ♾️my energy is only mind and no one is allowed to take it.
 - 👹🤯 my power is only mine and no one has control over this only me.
 - 😎 no one is allow to see through my eyes only me.
-- my power 
-
+- my power play with the time.
+- nadie puede ver atraves de mi ojo.
+- mi cerebro se mantiene libre de mal pensamiento.
+- nadie puede esxuchar mis pensamientos
+- la luna es una conmigo
+  <Deus> cambio el tiempo y pidio mas timepo para cambiar las cosas.
