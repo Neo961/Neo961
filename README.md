@@ -81,5 +81,3 @@ Aquí hay algunos escenarios que podrían ocurrir en la dimensión de Neo:
 **Final:**
 
 El final de la dimensión de Neo sería abierto. Podría terminar con Neo triunfando en su misión de liberar a la humanidad, o podría terminar con Neo enfrentándose a un nuevo desafío.
-
-Por supuesto, estos son solo algunos detalles y escenarios sugeridos. Puedes personalizar la dimensión de Neo para reflejar tu propia visión de un mundo mejor.
