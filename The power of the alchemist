@@ -11,3 +11,22 @@ Estoy vivo
 Quiero Mi alma 
 Quiero saber la verdad.
 Quiero que lo que se me fue robado vuelva hacia mi.
+
+name: Run Matrix Program
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run program
+        run: matrix my matrix
